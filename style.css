@@ -1,0 +1,19 @@
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+}
+.heading button{
+    float: right;
+    border: 5.5px solid springgreen;
+}
+.heading h3{
+    display: inline;
+    font-size: 22px;
+}
